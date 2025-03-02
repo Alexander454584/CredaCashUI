@@ -18,7 +18,7 @@
 - **Storage**: 200 MB free space
 
 ## Getting Started
-Before using **CredaCashUI**, we strongly recommend reviewing the logic and principles of CredaCash on [credacash](https://credacash.com). This will help you understand its features and maximize the interface’s potential. Once installed, launch the app from your desktop shortcut or Start menu to manage your assets with ease.
+Before using **CredaCashUI**, we strongly recommend reviewing the logic and principles of [СredaСash](https://credacash.com). This will help you understand its features and maximize the interface’s potential. Once installed, launch the app from your desktop shortcut or Start menu to manage your assets with ease.
 
 ## Contributing
 This project lives through community support! Get involved:
