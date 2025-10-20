@@ -3,26 +3,6 @@
 
 **CredaCashUI** is a community-driven, user-friendly interface designed to simplify interaction with the [CredaCash](https://credacash.com) cryptocurrency. Built by enthusiasts, it makes digital asset management accessible and straightforward for everyone — from beginners to seasoned crypto users.
 
-## Key Features
-- **Community-Built**: Crafted by enthusiasts for the CredaCash community.
-- **User-Friendly**: Intuitive design for fast and easy onboarding.
-- **Compatibility**: Available on Windows.
-- Additional Component: Requires Visual C++ Redistributable for Visual Studio 2015-2022 (x64) to be installed for proper functionality.
-
-## Installation
-1. Visit the [Releases](https://github.com/Alexander454584/CredaCashUI/releases) page.
-2. Download the latest `CredaCashUI_Setup.exe`.
-3. Run the installer and follow the on-screen instructions.
-
-## System Requirements
-- **OS**: Windows 10 or later
-- **Memory**: 2 GB RAM (4 GB recommended)
-- **Storage**: 200 MB free space
-- **Additional Component**: Requires [Visual C++ Redistributable for Visual Studio 2015-2022 (x64)](https://aka.ms/vs/17/release/vc_redist.x64.exe) to be installed for proper functionality.
-
-## Getting Started
-Before using **CredaCashUI**, we strongly recommend reviewing the logic and principles of [СredaСash](https://credacash.com). This will help you understand its features and maximize the interface’s potential. Once installed, launch the app from your desktop shortcut or Start menu to manage your assets with ease.
-
 ## Contributing
 This project lives through community support! Get involved:
 - Official Website: [credacash.com](https://credacash.com)
