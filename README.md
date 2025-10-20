@@ -1,7 +1,7 @@
-# CredaCashUI
+# CredaCashUI_Community_Edition
 ![CredaCashUI Interface](https://github.com/Alexander454584/CredaCashUI/blob/main/UI.png?raw=true)
 
-**CredaCashUI** is a community-driven, user-friendly interface designed to simplify interaction with the [CredaCash](https://credacash.com) cryptocurrency. Built by enthusiasts, it makes digital asset management accessible and straightforward for everyone — from beginners to seasoned crypto users.
+**CredaCashUI_Community_Edition** is a community-driven, user-friendly interface designed to simplify interaction with the [CredaCash](https://credacash.com) cryptocurrency. Built by enthusiasts, it makes digital asset management accessible and straightforward for everyone — from beginners to seasoned crypto users.
 
 ## Contributing
 This project lives through community support! Get involved:
